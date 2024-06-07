@@ -1,0 +1,14 @@
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\bin\Debug\net8.0\Lab7oop.exe
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\bin\Debug\net8.0\Lab7oop.deps.json
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\bin\Debug\net8.0\Lab7oop.runtimeconfig.json
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\bin\Debug\net8.0\Lab7oop.dll
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\bin\Debug\net8.0\Lab7oop.pdb
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.AssemblyInfoInputs.cache
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.AssemblyInfo.cs
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.csproj.CoreCompileInputs.cache
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.dll
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\refint\Lab7oop.dll
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.pdb
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\Lab7oop.genruntimeconfig.cache
+C:\1 OTHER\LABS\1.2\Lab7oop\Lab7oop\obj\Debug\net8.0\ref\Lab7oop.dll
